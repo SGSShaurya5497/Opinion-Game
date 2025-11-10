@@ -1,0 +1,5 @@
+{
+  "name": "Copy of The Opinion Game",
+  "description": "A responsive web app where users debate an AI on various topics. The app features a chat interface, typing animations, and a real-time persuasion score to track the debate's progress.",
+  "requestFramePermissions": []
+}
